@@ -1,11 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200);
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\000034}}
 html {
   margin: 0;
   padding: 0;
   border: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000318}}
 .bp-reset-element, body, h1, h2, h3, h4, h5, h6, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, blockquote, q, th, td, caption, table,
 div, span, object, iframe, p,
 pre, a, abbr, acronym, address,
@@ -22,35 +22,35 @@ caption, tbody, tfoot, thead, tr {
   font-family: inherit;
   vertical-align: baseline; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000320}}
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000321}}
 blockquote, q {
   quotes: "" ""; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000367}}
   blockquote:before, blockquote:after, q:before, q:after {
     content: ""; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000322}}
 th, td, caption {
   float: none !important;
   text-align: left;
   font-weight: normal;
   vertical-align: middle; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000323}}
 table {
   border-collapse: separate;
   border-spacing: 0;
   vertical-align: middle; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/blueprint\/stylesheets\/blueprint\/reset\/_utilities\.scss}line{font-family:\0000324}}
 a img {
   border: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000317}}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -71,38 +71,38 @@ time, mark, audio, video {
   font-size: 100%;
   vertical-align: baseline; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000322}}
 html {
   line-height: 1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000324}}
 ol, ul {
   list-style: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000326}}
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000328}}
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000330}}
 q, blockquote {
   quotes: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003103}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003103}}
   q:before, q:after, blockquote:before, blockquote:after {
     content: "";
     content: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000332}}
 a img {
   border: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/2\.0\.0\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003116}}
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
@@ -110,15 +110,15 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   font-family: "Helvetica Neue Thin";
   src: url('/stylesheets/fonts/helvetica_neue_thin.ttf') format('truetype'), url('/stylesheets/fonts/helvetica_neue_thin.woff') format('woff'), url('/stylesheets/fonts/helvetica_neue_thin.eot') format('embedded-opentype'), url('/stylesheets/fonts/helvetica_neue_thin.svg') format('svg'); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/partials\/_fonts\.sass}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/partials\/_fonts\.sass}line{font-family:\0000325}}
 body {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 200; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/partials\/_header\.sass}line{font-family:\000032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/partials\/_header\.sass}line{font-family:\000032}}
 header {
   border-top: 5px solid black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/partials\/_header\.sass}line{font-family:\000034}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/partials\/_header\.sass}line{font-family:\000034}}
   header div {
     width: 960px;
     margin: 0 auto;
@@ -126,7 +126,7 @@ header {
     *zoom: 1;
     position: relative;
     height: 81px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/partials\/_header\.sass}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/partials\/_header\.sass}line{font-family:\000038}}
     header div .logo {
       display: block;
       -moz-border-radius-bottomleft: 5px;
@@ -139,14 +139,14 @@ header {
       height: 57px;
       padding: 12px 20px;
       background-color: black;
-      background-image: url('/images/logo.png?1362331718');
+      background-image: url('/images/logo.png?1391958651');
       background-repeat: no-repeat;
       background-position: center 8px;
       position: absolute;
       top: 0;
       right: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\000033}}
 #home {
   position: absolute;
   top: 81px;
@@ -154,7 +154,7 @@ header {
   left: 0;
   right: 0;
   min-height: 845px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\000036}}
   #home div.content {
     width: 960px;
     margin: 0 auto;
@@ -163,18 +163,18 @@ header {
     position: relative;
     height: 100%;
     overflow: hidden; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000312}}
     #home div.content div#page-header {
       position: absolute;
       top: 0;
       bottom: 695px;
       left: 0;
       right: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000314}}
       #home div.content div#page-header > div {
         display: table;
         height: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000317}}
         #home div.content div#page-header > div h1 {
           font-family: "Helvetica Neue Thin", sans-serif;
           font-size: 70px;
@@ -182,7 +182,7 @@ header {
           height: 100%;
           display: table-cell;
           vertical-align: middle; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000323}}
     #home div.content div.sum-up {
       position: absolute;
       top: auto;
@@ -190,21 +190,21 @@ header {
       left: 0;
       right: 0;
       height: 695px;
-      background-image: url('/images/home-background.png?1362331718');
+      background-image: url('/images/home-background.png?1391958651');
       background-repeat: no-repeat;
       background-position: right bottom; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000330}}
       #home div.content div.sum-up p {
         font-family: "Source Sans Pro", sans-serif;
         font-weight: 200;
         font-size: 1.375em;
         width: 510px;
         line-height: 1.75em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000336}}
       #home div.content div.sum-up ul.skills {
         position: absolute;
         bottom: 200px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000339}}
         #home div.content div.sum-up ul.skills li {
           display: -moz-inline-stack;
           display: inline-block;
@@ -215,39 +215,11 @@ header {
           float: left;
           margin-right: 30px;
           margin-bottom: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Projects\/griable_angular\/app\/views\/stylesheets\/pages\/_home\.sass}line{font-family:\0000345}}
           #home div.content div.sum-up ul.skills li:nth-child(3) {
             clear: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_projects\.sass}line{font-family:\000031}}
-section#projects {
-  background: #f4f4f4;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_projects\.sass}line{font-family:\000034}}
-  section#projects div.container {
-    width: 960px;
-    margin: 0 auto;
-    overflow: hidden;
-    *zoom: 1; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/griable\/Dropbox\/griable\/app\/views\/stylesheets\/pages\/_projects\.sass}line{font-family:\000036}}
-    section#projects div.container h1 {
-      font-family: "Helvetica Neue Thin", sans-serif;
-      font-size: 70px;
-      font-weight: 200; }
-
-@media -sass-debug-info{filename{}line{font-family:\0000319}}
+@media -sass-debug-info{filename{}line{font-family:\0000318}}
 html, body {
   height: 100%;
   background: white; }
-
-@media -sass-debug-info{filename{}line{font-family:\0000323}}
-header {
-  z-index: 1000; }
-
-@media -sass-debug-info{filename{}line{font-family:\0000326}}
-section {
-  z-index: 100; }
